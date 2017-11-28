@@ -10,8 +10,8 @@ namespace RDFWebApp.Models
     {
         public static string USER = "admin";
         public static string PWD = "innovator";
-        public static string URL = "http://edonahue02/11SP10/";
-        public static string DB = "RDF";
+        public static string URL = "http://araslabsvm1/RDF/";
+        public static string DB = "RDF_Eli";
 
         public string Name { get; set; }
         public string Action { get; set; }
