@@ -10,7 +10,7 @@ namespace RDFWebApp.Models
     {
         public static string USER = "admin";
         public static string PWD = "innovator";
-        public static string URL = "http://araslabsvm1.eastus.cloudapp.azure.com/RDFWebApp/";
+        public static string URL = "http://araslabsvm1.eastus.cloudapp.azure.com/RDF/";
         public static string DB = "RDF_Eli";
 
         public string Name { get; set; }
